@@ -1,0 +1,59 @@
+{
+  "p001": 
+    {
+      "name": "Alice Johnson",
+      "city": "New York",
+      "age": 29,
+      "gender": "Female",
+      "height": 1.65,
+      "weight": 68,
+      "bmi": 24.98,
+      "verdict": "Normal"
+    },
+
+    "p002": {
+      "name": "Brian Smith",
+      "city": "Los Angeles",
+      "age": 34,
+      "gender": "Male",
+      "height": 1.78,
+      "weight": 85,
+      "bmi": 26.83,
+      "verdict": "Overweight"
+    },
+
+    "p003": {
+      "name": "Catherine Lee",
+      "city": "Chicago",
+      "age": 42,
+      "gender": "Female",
+      "height": 1.60,
+      "weight": 95,
+      "bmi": 37.11,
+      "verdict": "Obese"
+    },
+
+    "p004":
+    {
+      "name": "David Kim",
+      "city": "Houston",
+      "age": 23,
+      "gender": "Male",
+      "height": 1.75,
+      "weight": 70,
+      "bmi": 22.86,
+      "verdict": "Normal"
+    },
+
+    "p005": 
+    {
+      "name": "Emily Davis",
+      "city": "Phoenix",
+      "age": 37,
+      "gender": "Female",
+      "height": 1.70,
+      "weight": 59,
+      "bmi": 20.42,
+      "verdict": "Normal"
+    }
+}
